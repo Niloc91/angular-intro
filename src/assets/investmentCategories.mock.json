@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "investCategoryId": "1b555169-e0a5-441f-9204-fbf66539e9aa",
+      "type": "AMENITIES",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "f2752d57-831c-4827-a489-8a2796e5723e",
+      "type": "APARTMENT",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "dee0f4ea-abaa-4a98-83c7-4db9792d5f28",
+      "type": "BALCONY",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "4ed902f3-7957-46d0-b8b5-d9490f3db057",
+      "type": "COMMERCIAL",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "857ac93f-2911-47c5-ae1d-fd65229d6079",
+      "type": "COOLING",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "5e65fa82-e287-497c-ba5b-a644766d0f40",
+      "type": "ELECTRICAL",
+      "hasQuestionnaire": true,
+      "compulsatory": true,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "fcfc678c-0689-47ac-8f01-ea14761ab5c0",
+      "type": "ELEVATOR",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "d6a21d37-d637-4cd6-9f46-6b0a98fbf524",
+      "type": "ENTRANCE",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "9ebd9039-bef5-42fc-97ab-54cbb1d8ba3c",
+      "type": "FACADE",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "12734bd0-58bb-4864-a86a-c2368a8dd7d7",
+      "type": "HALLWAYS",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "825dcfab-6ec2-4b41-b536-64644a68198e",
+      "type": "HEATING",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "cdcf082f-57d1-4c86-96a8-a79aab9e70c5",
+      "type": "INSULATION",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "cf729051-09e4-42ae-9a55-f7362ea333f5",
+      "type": "LIGHTING",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "28c226ba-a769-4ced-ac2a-1ccc73f96b87",
+      "type": "OUTDOOR",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "cfff34d0-6267-444b-8085-579aaf1d3f99",
+      "type": "PIPING",
+      "hasQuestionnaire": true,
+      "compulsatory": true,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "2c23d6c4-b569-400d-b5eb-0f1f11b065e5",
+      "type": "RENEWABLE",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "06ea0619-1f7c-4415-90e2-f57b9c363ab7",
+      "type": "ROOF",
+      "hasQuestionnaire": true,
+      "compulsatory": true,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "03e6e0aa-0c42-411c-943a-6d1dfea993d8",
+      "type": "SAFETY",
+      "hasQuestionnaire": true,
+      "compulsatory": true,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "2b3fad5f-51b2-46bc-a32b-32e7647b7605",
+      "type": "STAIRWELL",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "e4202f62-3bb1-435e-90e8-360b60ba070f",
+      "type": "VENTILATION",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    },
+    {
+      "investCategoryId": "3f706d2f-5920-4f58-bb96-895d93de9402",
+      "type": "WINDOWS",
+      "hasQuestionnaire": true,
+      "compulsatory": false,
+      "refactoringTypesAllowed": [
+        "ADD",
+        "UPGRADE",
+        "CONVERT"
+      ]
+    }
+  ]
+}

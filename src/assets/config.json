@@ -1,0 +1,5 @@
+{
+  "investmentServiceClient":{
+    "apiUrl" : "https://investment-service-rest-api-dev.k8.akelius.com/api"
+  }
+}
